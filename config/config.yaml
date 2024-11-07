@@ -1,0 +1,11 @@
+artifacts_root: artifacts
+
+data_ingestion:
+root_dir: artifacts/data_ingestion
+source_URL: https://github.com/UBY-YunusEmre/Yapay-Zeka-Kad-k-y/blob/main/H10_MLOpsProject/data/stud.csv
+local_data_life: artifacts/data_ingestion/stud.csv
+
+
+
+
+
